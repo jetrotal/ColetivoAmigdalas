@@ -37,8 +37,8 @@ top:0;
 width:100%;
 }
 
-a::before {
-content: "\f0c1 ";
+a::before, a::after {
+content: " \1F517 ";
 }
 
 a {
