@@ -41,6 +41,7 @@ width:100%;
 a::before, a::after {
 content: "  📌  ";
 font-weight:900;
+opacity: .3;
 }
 
 .no-after::after, .no-after::before{
