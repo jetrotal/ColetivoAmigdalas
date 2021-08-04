@@ -37,16 +37,6 @@ del{
        overflow-x: hidden;
        font-family: "Helvetica", sans-serif;    
 }
-       .fa-facebook {
-       background: #3B5998;
-       color: white;
-}
-       .fa-youtube {
-        background: #bb0000;
-}
-       .fa-instagram {
-       background: #f40083;
-}
        .fa {
 font-size: 30px !important;
     width: 50px;
