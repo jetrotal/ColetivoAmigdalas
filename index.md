@@ -60,7 +60,7 @@ font-size: 30px !important;
 </style>
 
 <div class="mainDiv" markdown="1">
-<a><img class="noBG" src="./logo.svg" height="54"></a>
+<a><img class="noBG" src="./logo.svg" height="125"></a>
 {% include_relative sites.md %}
 <div class="footer">
 <a href="https://www.instagram.com/coletivo_amigdalas/" class="fa fa-instagram"></a>
