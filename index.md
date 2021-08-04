@@ -1,59 +1,66 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
-.noBG {
-background-color:transparent !important;
-margin:-35px;
-       }
-a{
-       display: block;
-       position: relative;
-       width: 100%;
-       height: 100%;
-       padding: 20px 2px;
-       border-bottom: 1px dotted #333;
-       text-align: center;
-       min-height: 35px;
-       text-decoration: none !important;
-       font-size: 90% !important;
-       color: #fff;
+.fa {
+border-bottom:0;
+font-size:30px!important;
+margin:10px 5px;
+padding:10px;
+width:50px;
 }
-del{
-       color:#ffffff55
 
+.footer {
+bottom:0;
+left:0;
+position:absolute;
+right:0;
 }
-.mainDiv{
-       Position:absolute;
-       width:100%; 
-       height:100%; 
-       margin:0; 
-       top:0; 
-       left:0;
-       background-color:#1a1a1a;
-       padding: 10px !important;
-       text-align:center;
-       font-size: 14px;
-       color: #666;
-       height: 100%;
-       overflow-x: hidden;
-       font-family: "Helvetica", sans-serif;    
+
+.logo {
+margin:-35px;
 }
-       .fa {
-font-size: 30px !important;
-    width: 50px;
-    padding: 10px;
-    border-bottom: 0;
-    margin: 10px 5px;
+
+.mainDiv {
+background:#1a1a1a;
+color:#666;
+font-family:Helvetica, sans-serif;
+font-size:14px;
+height:100%;
+left:0;
+margin:0;
+overflow:hidden;
+padding:10px!important;
+position:absolute;
+text-align:center;
+top:0;
+width:100%;
 }
-.footer{
-       position: absolute;
-       bottom:0vh;
-       left:0;
-       right:0;
+
+a {
+border-bottom:1px dotted #333;
+color:#fff;
+display:block;
+font-size:90%!important;
+height:100%;
+min-height:35px;
+padding:20px 2px;
+position:relative;
+text-align:center;
+text-decoration:none!important;
+width:100%;
+}
+
+body {
+background:#1a1a1a;
+overflow:hidden;
+}
+
+del {
+color:#ffffff55;
 }
 </style>
 
 <div class="mainDiv" markdown="1">
-<a><img class="noBG" src="./logo.svg" height="125"></a>
+<a><img class="logo" src="./logo.svg" height="125"></a>
 {% include_relative sites.md %}
 <div class="footer">
 <a href="https://www.instagram.com/coletivo_amigdalas/" class="fa fa-instagram"></a>
