@@ -35,7 +35,11 @@ a{
 </style>
 
 <div class="mainDiv" markdown="1">
-<a><img src="./logo.png" height="54"></a>
+<a>
+
+<img src="./logo.png" height="54">
+
+</a>
 
 {% include_relative sites.md %}
 
