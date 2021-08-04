@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 .noBG {
 background-color:transparent !important
@@ -30,7 +31,19 @@ a{
        color: #666;
        height: 100%;
        overflow-x: hidden;
-       font-family: "Helvetica", sans-serif;   
+       font-family: "Helvetica", sans-serif;    
+}
+       .fa-facebook {
+       background: #3B5998;
+       color: white;
+}
+       .fa-youtube {
+        background: #bb0000;
+        color: white;
+}
+       .socialmediaicons .fa-instagram {
+       background: #f40083;
+       color: white;
 }
 </style>
 
@@ -38,4 +51,7 @@ a{
 <a><img class="noBG" src="./logo.png" height="54"></a>
 {% include_relative sites.md %}
 
+<a href="javascript:void(0)" class="fa fa-facebook"></a>
+<a href="javascript:void(0)" class="fa fa-youtube"></a>
+<a href="javascript:void(0)" class="fa fa-instagram"></a>
 </div>
