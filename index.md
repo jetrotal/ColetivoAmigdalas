@@ -18,7 +18,7 @@ right:0;
 }
 
 .logo {
-margin:-35px;
+margin:-10px;
 background-color:transparent !important;
 }
 
@@ -58,7 +58,6 @@ width:100%;
 
 body {
 background:#1a1a1a;
-overflow:hidden;
 }
 
 del {
