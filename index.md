@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/fontawesome.min.css">
 <style>
 .fa {
 border:0;
@@ -39,7 +39,7 @@ width:100%;
 
 a::before {
 font-family: "Font Awesome 5 Free";
-content: "\f007";
+content: "\f0c1 ";
 }
 
 a {
@@ -67,7 +67,7 @@ color:#ffffff55;
 </style>
 
 <div class="mainDiv" markdown="1">
-<a><img class="logo" src="./logo.svg" height="125"></a>
+<img class="logo" src="./logo.svg" height="125">
 {% include_relative sites.md %}
 <div class="footer">
 <a href="https://www.instagram.com/coletivo_amigdalas/" class="fa fa-instagram"></a>
