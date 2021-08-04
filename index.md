@@ -48,7 +48,7 @@ a{
        width:70px;
        padding:20px;
        border-bottom:0;
-       margin: 10px 2px;
+       margin: 10px 5px;
 }
 </style>
 
