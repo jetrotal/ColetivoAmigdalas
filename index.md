@@ -1,11 +1,12 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
-.fab {
+.fa {
 border:0;
 font-size:30px!important;
 margin:10px 5px;
 padding:10px;
 width:50px;
+cursor: pointer;
 }
 
 .footer {
@@ -73,8 +74,8 @@ color:#ffffff55;
 <img class="logo" src="./logo.svg" height="125">
 {% include_relative sites.md %}
 <div class="footer">
-<x href="https://www.instagram.com/coletivo_amigdalas/" class="fab fa-instagram"></x>
-<x href="https://www.facebook.com/Coletivo-Am%C3%ADgdalas-104712007882184/" class="fab fa-facebook-f"></x>
-<x href="https://www.youtube.com/channel/UCig7BqOgl6cLp-fJi2fRQFw" class="fab fa-youtube"></x>
+<x onclick="window.location.href = 'https://www.instagram.com/coletivo_amigdalas/" class="fa fa-instagram'"></x>
+<x onclick="window.location.href = 'https://www.facebook.com/Coletivo-Am%C3%ADgdalas-104712007882184/'" class="fa fa-facebook-f"></x>
+<x onclick="window.location.href = 'https://www.youtube.com/channel/UCig7BqOgl6cLp-fJi2fRQFw'" class="fa fa-youtube"></x>
 </div>
 </div>
