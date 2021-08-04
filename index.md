@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 .fa {
-border-bottom:0;
+border:0;
 font-size:30px!important;
 margin:10px 5px;
 padding:10px;
@@ -31,7 +31,6 @@ height:100%;
 left:0;
 margin:0;
 overflow:hidden;
-padding:10px!important;
 position:absolute;
 text-align:center;
 top:0;
