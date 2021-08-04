@@ -17,7 +17,10 @@ a{
        font-size: 90% !important;
        color: #fff;
 }
+del{
+       color:#ffffff55
 
+}
 .mainDiv{
        Position:absolute;
        width:100%; 
