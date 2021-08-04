@@ -47,7 +47,7 @@ font-weight:900;
 content:"";
   }
 
-a {
+a, x {
 border-top:1px dotted #333;
 color:#fff;
 display:block;
