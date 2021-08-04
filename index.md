@@ -1,7 +1,8 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
 .noBG {
-background-color:transparent !important
+background-color:transparent !important;
+margin:-50px;
        }
 a{
        display: block;
