@@ -1,5 +1,5 @@
-<div markdown="1" 
-style="
+<style>
+.mainDiv{
        Position:absolute;
        width:100%; 
        height:100%; 
@@ -13,8 +13,11 @@ style="
        color: #666;
        height: 100%;
        overflow-x: hidden;
-       font-family: "Helvetica", sans-serif;                             
-">
+       font-family: "Helvetica", sans-serif;   
+}
+</style>
+
+<div class="mainDiv" markdown="1">
 
 {% include_relative sites.md %}
 
