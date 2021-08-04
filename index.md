@@ -44,7 +44,7 @@ a{
        background: #f40083;
 }
        .fa {
-       font-size: 30px;
+       font-size: 30px !important;
        width:70px;
        padding:20px;
        border-bottom:0;
