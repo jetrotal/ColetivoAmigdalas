@@ -50,12 +50,12 @@ content:"";
 
 a, x {
 border-top:1px dotted #333;
-  border-bottom:1px dotted #333;
+border-bottom:1px dotted #333;
 color:#fff;
 display:block;
 font-size:90%!important;
 height:100%;
-margin -1px 0;
+margin: -1px 0;
 min-height:35px;
 padding:20px 2px;
 position:relative;
