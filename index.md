@@ -81,8 +81,6 @@ color:#666 !important;
 
 <div class="mainDiv" markdown="1">
 <img class="logo" src="./logo.svg" height="125">
-
-<div class="titleCard"> Agenda Do coletivo </div>
 {% include_relative sites.md %}
 <div class="footer">
 <x onclick="window.location.href = 'https://www.instagram.com/coletivo_amigdalas/'" class="fa fa-instagram"></x>
