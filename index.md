@@ -43,7 +43,6 @@ a{
        .fa-instagram {
        background: #f40083;
 }
-
        .fa {
        width:70px;
        height:70px;
