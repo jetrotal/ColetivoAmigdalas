@@ -49,6 +49,8 @@ a{
        padding:20px;
        border-bottom:0;
        margin: 10px 5px;
+}
+.footer{
        position: absolute;
        bottom:0;
 }
@@ -57,7 +59,9 @@ a{
 <div class="mainDiv" markdown="1">
 <a><img class="noBG" src="./logo.png" height="54"></a>
 {% include_relative sites.md %}
+<div class="footer">
 <a href="https://www.instagram.com/coletivo_amigdalas/" class="fa fa-instagram"></a>
 <a href="https://www.facebook.com/Coletivo-Am%C3%ADgdalas-104712007882184/" class="fa fa-facebook"></a>
 <a href="https://www.youtube.com/channel/UCig7BqOgl6cLp-fJi2fRQFw" class="fa fa-youtube"></a>
+</div>
 </div>
