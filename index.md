@@ -12,6 +12,7 @@ a{
        border-bottom: 1px dotted #333;
        text-align: center;
        min-height: 35px;
+       margin: 5px 0;
        text-decoration: none !important;
        font-size: 90% !important;
        color: #fff;
@@ -53,7 +54,8 @@ font-size: 30px !important;
 .footer{
        position: absolute;
        bottom:0;
-       width:100%;
+       left:0;
+       right:0;
 }
 </style>
 
