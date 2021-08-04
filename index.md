@@ -13,8 +13,7 @@ style="
        color: #666;
        height: 100%;
        overflow-x: hidden;
-       font-family: "Helvetica", sans-serif;
-                             
+       font-family: "Helvetica", sans-serif;                             
 ">
 
 {% include_relative sites.md %}
