@@ -25,7 +25,7 @@ a{
        top:0; 
        left:0;
        background-color:#1a1a1a;
-       padding = 10px;
+       padding = 30px;
        text-align:center;
        font-size: 14px;
        color: #666;
