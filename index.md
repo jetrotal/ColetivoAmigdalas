@@ -1,5 +1,7 @@
 <style>
-
+.markdown-body img {
+background-color:none !important
+       }
 a{
        display: block;
        position: relative;
