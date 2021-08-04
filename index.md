@@ -37,7 +37,7 @@ top:0;
 width:100%;
 }
 
-.a::before {
+a::before {
 font-family: "Font Awesome 5 Free";
 content: "\f007";
 }
