@@ -12,7 +12,7 @@ a{
        border-bottom: 1px dotted #333;
        text-align: center;
        min-height: 35px;
-       margin: 5px 0;
+       margin: 10px 0;
        text-decoration: none !important;
        font-size: 90% !important;
        color: #fff;
