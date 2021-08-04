@@ -60,7 +60,7 @@ color:#fff;
 display:block;
 font-size:90%!important;
 height:100%;
-margin: -10px 0;
+margin: -11px 0;
 min-height:35px;
 padding:20px 2px;
 position:relative;
