@@ -76,7 +76,7 @@ background:#1a1a1a;
 }
 
 del {
-color:#ffffff55;
+color:#666 !important;
 }
 </style>
 
