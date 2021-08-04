@@ -9,6 +9,8 @@ width:50px;
 }
 
 .footer {
+background-color:#1a1a1a;
+border-top:1px dotted #333;
 bottom:0;
 left:0;
 position:absolute;
