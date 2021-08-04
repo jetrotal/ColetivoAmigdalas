@@ -1,9 +1,10 @@
 # Site settings
-title: Pudhina
+title: Coletivo Amígdalas
 description: >
   A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
 baseurl: "/coletivoamigdalas" # the subpath of your site, e.g. /blog/
 url: "https://jetrotal.github.io" # the base hostname & protocol for your site
+data-theme: dark
 
 author:
   fullname: Mauro Junior
