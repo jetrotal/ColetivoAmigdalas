@@ -8,12 +8,10 @@ a{
        padding: 7.5px;
        border-bottom: 1px dotted #333;
        text-align: center;
-       display: block;
        min-height: 28.5px;
-       text-decoration: none;
-       z-index: 1;
-       border-bottom: 1px dotted #333;
-       text-align: center;
+       text-decoration: none !important;
+       font-size: 155% !important;
+       color: #fff;
 }
 
 .mainDiv{
