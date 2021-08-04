@@ -13,7 +13,7 @@ a{
        text-align: center;
        min-height: 28.5px;
        text-decoration: none !important;
-       font-size: 50% !important;
+       font-size: 100% !important;
        color: #fff;
 }
 
