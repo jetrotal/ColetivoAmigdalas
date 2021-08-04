@@ -38,7 +38,7 @@ width:100%;
 }
 
 a::before {
-font-family: "Font Awesome 5 Free";
+font-family: "Font Awesome 5 Pro";
 content: "\f0c1 ";
 }
 
