@@ -8,11 +8,10 @@ a{
        position: relative;
        width: 100%;
        height: 100%;
-       padding: 7.5px;
+       padding: 20px;
        border-bottom: 1px dotted #333;
        text-align: center;
        min-height: 35px;
-       margin: 10px 0;
        text-decoration: none !important;
        font-size: 90% !important;
        color: #fff;
