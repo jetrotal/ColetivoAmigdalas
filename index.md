@@ -55,8 +55,7 @@ content:"";
 
 a, x {
 font-weight: 700;
-border-top:1px dotted #333;
-border-bottom:1px dotted #333;
+outline:1px dotted #333;
 color:#fff;
 display:block;
 font-size:90%!important;
