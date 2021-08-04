@@ -55,8 +55,7 @@ a{
 <div class="mainDiv" markdown="1">
 <a><img class="noBG" src="./logo.png" height="54"></a>
 {% include_relative sites.md %}
-
-<a href="javascript:void(0)" class="fa fa-facebook"></a>
-<a href="javascript:void(0)" class="fa fa-youtube"></a>
-<a href="javascript:void(0)" class="fa fa-instagram"></a>
+<a href="https://www.instagram.com/coletivo_amigdalas/" class="fa fa-instagram"></a>
+<a href="https://www.facebook.com/Coletivo-Am%C3%ADgdalas-104712007882184/" class="fa fa-facebook"></a>
+<a href="https://www.youtube.com/channel/UCig7BqOgl6cLp-fJi2fRQFw" class="fa fa-youtube"></a>
 </div>
