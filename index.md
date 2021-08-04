@@ -1,6 +1,6 @@
 <style>
 
-.a{
+a{
        display: block;
        position: relative;
        width: 100%;
