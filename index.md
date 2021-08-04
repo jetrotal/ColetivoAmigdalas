@@ -45,8 +45,9 @@ a{
 }
        .fa {
        width:70px;
-       height:70px;
+       padding:20px;
        border-bottom:0;
+       margin: 5px 2px;
 }
 </style>
 
