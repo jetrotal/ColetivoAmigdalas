@@ -40,6 +40,7 @@ width:100%;
 
 .titleCard{
 color:#c1282d;
+z-index:10;
 }
 
 a::before, a::after {
