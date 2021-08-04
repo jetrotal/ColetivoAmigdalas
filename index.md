@@ -39,7 +39,7 @@ width:100%;
 }
 
 a::before, a::after {
-content: " \1F310 ";
+content: "  📌  ";
 font-weight:900;
 }
 
@@ -74,7 +74,7 @@ color:#ffffff55;
 <img class="logo" src="./logo.svg" height="125">
 {% include_relative sites.md %}
 <div class="footer">
-<x onclick="window.location.href = 'https://www.instagram.com/coletivo_amigdalas/" class="fa fa-instagram'"></x>
+<x onclick="window.location.href = 'https://www.instagram.com/coletivo_amigdalas/'" class="fa fa-instagram"></x>
 <x onclick="window.location.href = 'https://www.facebook.com/Coletivo-Am%C3%ADgdalas-104712007882184/'" class="fa fa-facebook-f"></x>
 <x onclick="window.location.href = 'https://www.youtube.com/channel/UCig7BqOgl6cLp-fJi2fRQFw'" class="fa fa-youtube"></x>
 </div>
