@@ -19,7 +19,7 @@ right:0;
 }
 
 .logo {
-margin:-15px 0 -40px 0;
+margin:-15px 0 -20px 0
 background-color:transparent !important;
 }
 
