@@ -74,6 +74,7 @@ color:#ffffff55;
 <div class="mainDiv" markdown="1">
 <img class="logo" src="./logo.svg" height="125">
 {% include_relative sites.md %}
+<a></a>
 <div class="footer">
 <x onclick="window.location.href = 'https://www.instagram.com/coletivo_amigdalas/'" class="fa fa-instagram"></x>
 <x onclick="window.location.href = 'https://www.facebook.com/Coletivo-Am%C3%ADgdalas-104712007882184/'" class="fa fa-facebook-f"></x>
