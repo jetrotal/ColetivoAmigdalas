@@ -73,8 +73,8 @@ color:#ffffff55;
 <img class="logo" src="./logo.svg" height="125">
 {% include_relative sites.md %}
 <div class="footer">
-<a class="no-after" href="https://www.instagram.com/coletivo_amigdalas/" class="fa fa-instagram"></a>
-<a class="no-after" href="https://www.facebook.com/Coletivo-Am%C3%ADgdalas-104712007882184/" class="fa fa-facebook"></a>
-<a class="no-after" href="https://www.youtube.com/channel/UCig7BqOgl6cLp-fJi2fRQFw" class="fa fa-youtube"></a>
+<x href="https://www.instagram.com/coletivo_amigdalas/" class="fa fa-instagram"></x>
+<x href="https://www.facebook.com/Coletivo-Am%C3%ADgdalas-104712007882184/" class="fa fa-facebook"></x>
+<x href="https://www.youtube.com/channel/UCig7BqOgl6cLp-fJi2fRQFw" class="fa fa-youtube"></x>
 </div>
 </div>
