@@ -37,6 +37,11 @@ top:0;
 width:100%;
 }
 
+.a::before {
+font-family: "Font Awesome 5 Free";
+content: "\f007";
+}
+
 a {
 border-top:1px dotted #333;
 color:#fff;
