@@ -44,7 +44,7 @@ z-index:10;
 }
 
 a::before, a::after {
-content: "  🔥  ";
+content: "  📌  ";
 font-weight:900;
 opacity: .3;
 }
@@ -54,7 +54,7 @@ content:"";
   }
 
 a, x {
-font-weight: 900;
+font-weight: 700;
 border-top:1px dotted #333;
 border-bottom:1px dotted #333;
 color:#fff;
