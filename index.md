@@ -38,7 +38,8 @@ width:100%;
 }
 
 a::before, a::after {
-content: " \1F517 ";
+content: " \1F310 ";
+font-weight:900;
 }
 
 a {
