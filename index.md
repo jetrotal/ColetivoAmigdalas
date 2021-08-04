@@ -44,15 +44,16 @@ a{
        background: #f40083;
 }
        .fa {
-       font-size: 30px !important;
-       width:70px;
-       padding:20px;
-       border-bottom:0;
-       margin: 10px 5px;
+font-size: 30px !important;
+    width: 50px;
+    padding: 10px;
+    border-bottom: 0;
+    margin: 10px 5px;
 }
 .footer{
        position: absolute;
        bottom:0;
+       width:100%;
 }
 </style>
 
