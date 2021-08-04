@@ -11,7 +11,7 @@ a{
        padding: 7.5px;
        border-bottom: 1px dotted #333;
        text-align: center;
-       min-height: 28.5px;
+       min-height: 35px;
        text-decoration: none !important;
        font-size: 90% !important;
        color: #fff;
