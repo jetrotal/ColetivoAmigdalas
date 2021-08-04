@@ -1,6 +1,6 @@
 <style>
-img {
-background-color:none !important
+.noBG {
+background-color:transparent !important
        }
 a{
        display: block;
@@ -37,7 +37,7 @@ a{
 <div class="mainDiv" markdown="1">
 <a>
 
-<img src="./logo.png" height="54">
+<img class="noBG" src="./logo.png" height="54">
 </a>
 
 {% include_relative sites.md %}
