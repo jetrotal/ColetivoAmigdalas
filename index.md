@@ -1,5 +1,5 @@
 <style>
-.markdown-body img {
+img {
 background-color:none !important
        }
 a{
