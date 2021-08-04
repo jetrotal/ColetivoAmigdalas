@@ -54,6 +54,7 @@ content:"";
   }
 
 a, x {
+font-weight: 900;
 border-top:1px dotted #333;
 border-bottom:1px dotted #333;
 color:#fff;
