@@ -17,6 +17,7 @@ right:0;
 
 .logo {
 margin:-35px;
+background-color:transparent !important;
 }
 
 .mainDiv {
