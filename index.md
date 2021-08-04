@@ -39,11 +39,15 @@ a{
 }
        .fa-youtube {
         background: #bb0000;
-        color: white;
 }
-       .socialmediaicons .fa-instagram {
+       .fa-instagram {
        background: #f40083;
-       color: white;
+}
+
+       .fa {
+       width:70px;
+       height:70px;
+       border-bottom:0;
 }
 </style>
 
