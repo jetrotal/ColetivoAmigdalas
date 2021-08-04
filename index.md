@@ -35,9 +35,7 @@ a{
 </style>
 
 <div class="mainDiv" markdown="1">
-
 <a><img class="noBG" src="./logo.png" height="54"></a>
-
 {% include_relative sites.md %}
 
 </div>
