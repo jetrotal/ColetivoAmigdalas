@@ -80,7 +80,7 @@ color:#ffffff55;
 <div class="mainDiv" markdown="1">
 <img class="logo" src="./logo.svg" height="125">
 
-<x class="titleCard"> Agenda Do coletivo </x>
+<b class="titleCard"> Agenda Do coletivo </b>
 {% include_relative sites.md %}
 <div class="footer">
 <x onclick="window.location.href = 'https://www.instagram.com/coletivo_amigdalas/'" class="fa fa-instagram"></x>
