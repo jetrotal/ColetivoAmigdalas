@@ -2,7 +2,7 @@
 <style>
 .noBG {
 background-color:transparent !important;
-margin:-50px;
+margin:-35px;
        }
 a{
        display: block;
