@@ -46,7 +46,7 @@ font-size: 30px !important;
 }
 .footer{
        position: absolute;
-       bottom:0;
+       top:100vh;
        left:0;
        right:0;
 }
