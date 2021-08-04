@@ -39,7 +39,7 @@ width:100%;
 }
 
 a {
-border-bottom:1px dotted #333;
+border-top:1px dotted #333;
 color:#fff;
 display:block;
 font-size:90%!important;
