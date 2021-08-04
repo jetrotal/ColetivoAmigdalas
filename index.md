@@ -25,7 +25,7 @@ background-color:transparent !important;
 
 .mainDiv {
 background:#1a1a1a;
-color:#666;
+color:#333;
 font-family:Helvetica, sans-serif;
 font-size:14px;
 height:100%;
@@ -70,6 +70,7 @@ width:100%;
 }
 
 body {
+text-transform: uppercase;
 background:#1a1a1a;
 }
 
