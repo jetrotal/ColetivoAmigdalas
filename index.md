@@ -8,7 +8,7 @@ a{
        position: relative;
        width: 100%;
        height: 100%;
-       padding: 20px;
+       padding: 2px 20px;
        border-bottom: 1px dotted #333;
        text-align: center;
        min-height: 35px;
