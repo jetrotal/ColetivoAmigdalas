@@ -25,7 +25,7 @@ background-color:transparent !important;
 
 .mainDiv {
 background:#1a1a1a;
-color:#aaa;
+color:#a03232;
 font-family:Helvetica, sans-serif;
 font-size:10px;
 height:100%;
@@ -46,7 +46,7 @@ z-index:10;
 a::before, a::after {
 content: "  ★  ";
 font-weight:900;
-opacity: .3;
+color: #c1282d;
 }
 
 .no-after::after, .no-after::before{
@@ -67,7 +67,7 @@ text-align:center;
 text-decoration:none!important;
 width:100%;
 }
-a, x {
+a {
     margin: -8px 0;
     top: 14px;
 }
