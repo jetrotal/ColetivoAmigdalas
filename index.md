@@ -68,9 +68,9 @@ text-align:center;
 text-decoration:none!important;
 width:100%;
 }
-
-:not(a,x,div,body,.fa,.mainDiv,.logo,.footer){
-color:#f00;
+a, x {
+    margin: -11px 0;
+    top: 14px;
 }
 
 body {
