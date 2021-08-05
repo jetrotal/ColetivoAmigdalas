@@ -69,6 +69,10 @@ text-decoration:none!important;
 width:100%;
 }
 
+a ~ * {
+color:#f00;
+}
+
 body {
 text-transform: uppercase;
 background:#1a1a1a;
