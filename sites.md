@@ -1,11 +1,9 @@
-<style>
-INSTRUÇÕES {
-content:"
+site.instruções
 aaaaaaaaaaaaaaaaaaaaaaaaah
 
 Categoria [ Título do Evento ]( Website ) Data
 
-"</style>
+site.fim_das_instruções
 
 
 Oficina [ Corpo e Voz - Oficina Gratuíta com Priscila Ioli ]() Em Breve <br>
