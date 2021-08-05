@@ -1,8 +1,5 @@
-[INSTRUÇÕES]: <> ( 
+[](Comment text goes here)
 
-Categoria [ Titulo ] ( Website ) Data <br>
-
-)
 
 Oficina [ Corpo e Voz - Oficina Gratuíta com Priscila Ioli ]() Em Breve <br>
 Apresentação [ Verbo Mulher - Nova Temporada de Apresentações ]() Em Breve <br>
