@@ -45,9 +45,8 @@ z-index:10;
 
 a::before, a::after {
 content: "  ★  ";
-font-weight:900;
 color: #c1282d;
-font-size: 10px;
+font-size: 7px;
 }
 
 .no-after::after, .no-after::before{
