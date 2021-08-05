@@ -25,7 +25,7 @@ background-color:transparent !important;
 
 .mainDiv {
 background:#1a1a1a;
-color:#333;
+color:#aaa;
 font-family:Helvetica, sans-serif;
 font-size:10px;
 height:100%;
@@ -60,7 +60,6 @@ color:#fff;
 display:block;
 font-size:14px;
 height:100%;
-margin: -1px 0;
 min-height:35px;
 padding:20px 2px;
 position:relative;
@@ -69,7 +68,7 @@ text-decoration:none!important;
 width:100%;
 }
 a, x {
-    margin: -11px 0;
+    margin: -8px 0;
     top: 14px;
 }
 
