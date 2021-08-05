@@ -47,6 +47,7 @@ a::before, a::after {
 content: "  ★  ";
 font-weight:900;
 color: #c1282d;
+font-size: 10px;
 }
 
 .no-after::after, .no-after::before{
