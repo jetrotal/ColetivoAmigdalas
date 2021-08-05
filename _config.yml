@@ -1,7 +1,7 @@
 # Site settings
 title: Coletivo Amígdalas
 description: >
-  Fundado em 2017 pela atriz Priscila Ioli durante o processo de criação de sua pesquisa de Mestrado na ESMAE - Escola Superior de Música e Artes do Espetáculo da Cidade do Porto, Portugal. 
+  Agenda de Curso, Apresentações, Notícias e Eventos do Coletivo Amígdalas.
 baseurl: "/coletivoamigdalas" # the subpath of your site, e.g. /blog/
 url: "https://jetrotal.github.io" # the base hostname & protocol for your site
 data-theme: dark
