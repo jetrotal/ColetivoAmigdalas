@@ -1,11 +1,11 @@
-<script>"
-
-Instruções:
+<style>
+INSTRUÇÕES {
+content:"
+aaaaaaaaaaaaaaaaaaaaaaaaah
 
 Categoria [ Título do Evento ]( Website ) Data
 
-
-"</script>
+"</style>
 
 
 Oficina [ Corpo e Voz - Oficina Gratuíta com Priscila Ioli ]() Em Breve <br>
