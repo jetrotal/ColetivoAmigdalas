@@ -49,6 +49,7 @@ font-size: 7px;
 }
 
 .header {
+margin-top: -14px;
 }
 .header::before, .header::after {
 content: "    ";
