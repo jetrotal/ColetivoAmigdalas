@@ -69,7 +69,7 @@ text-decoration:none!important;
 width:100%;
 }
 
-:not(a,x,div,body,.fa){
+:not(a,x,div,body,.fa,.mainDiv,.logo,.footer){
 color:#f00;
 }
 
