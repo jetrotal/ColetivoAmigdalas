@@ -58,7 +58,7 @@ font-weight: 700;
 border:1px dotted #333;
 color:#fff;
 display:block;
-font-size:14px;
+font-size:12px;
 height:100%;
 min-height:35px;
 padding:20px 2px;
