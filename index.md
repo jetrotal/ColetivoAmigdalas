@@ -48,7 +48,7 @@ color: #c1282d;
 font-size: 7px;
 }
 
-.logo::before, .logo::after {
+.logoContainer::before, .logoContainer::after {
 content: "    ";
 }
 
