@@ -48,7 +48,10 @@ color: #c1282d;
 font-size: 7px;
 }
 
-.logoContainer::before, .logoContainer::after {
+.header {
+top:-14px;
+}
+.header::before, .header::after {
 content: "    ";
 }
 
@@ -86,7 +89,7 @@ color:#666 !important;
 </style>
 
 <div class="mainDiv" markdown="1">
-<a class="logoContainer"><img class="logo" src="./logo.svg" height="75"></a>
+<a class="header"><img class="logo" src="./logo.svg" height="75"></a>
 <br>
 {% include_relative sites.md %}
 <div class="footer">
