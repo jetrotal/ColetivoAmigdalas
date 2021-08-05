@@ -44,7 +44,7 @@ z-index:10;
 }
 
 a::before, a::after {
-content: "  📌  ";
+content: "    ";
 font-weight:900;
 opacity: .3;
 }
