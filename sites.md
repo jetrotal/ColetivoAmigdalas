@@ -1,5 +1,6 @@
-[ Corpo e Voz - Oficina Gratuíta com Priscila Ioli ](https://www.google.com) Em Breve 
-[ Verbo Mulher - Nova Temporada de Apresentações ](https://www.google.com) Em Breve
-~~[ Oficinas Gratuítas ]()~~ DIAS 08/07 À 11/08 
-~~[ Transmissão Verbo Mulher + Debate ]()~~ DIAS 23/07 E 24/07 
-~~[ Transmissão Verbo Mulher ]()~~ DIAS 12/07 E 13/07 
+[ Corpo e Voz - Oficina Gratuíta com Priscila Ioli ]() Em Breve 
+[ Verbo Mulher - Nova Temporada de Apresentações ]() Em Breve
+[ Cobertura do Verbo Mulher na SP Escola de Teatro ](https://www.spescoladeteatro.org.br/noticia/tag/verbo-mulher) Em Breve
+~~[ Oficinas Gratuítas ](https://docs.google.com/forms/d/e/1FAIpQLScaMnpROJQd0P0z3mJjFo-z4Fkxlu4tkugnkWlZfCewgqvT0Q/viewform)~~ DIAS 08/07/2021 À 11/08/2021 
+~~[ Transmissão Verbo Mulher ](https://www.facebook.com/CentroCulturalMonteAzul)~~ DIA 25/07/2021
+~~[ Transmissão Verbo Mulher + Debate ](https://www.instagram.com/epcultural151/)~~ DIAS 23/07/2021 E 24/07/2021 
