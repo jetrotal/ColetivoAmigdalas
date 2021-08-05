@@ -69,7 +69,7 @@ text-decoration:none!important;
 width:100%;
 }
 
-a ~ * {
+:not(a,x,div,body,.fa){
 color:#f00;
 }
 
