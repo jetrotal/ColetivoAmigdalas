@@ -7,5 +7,8 @@ baseurl: "/coletivoamigdalas" # the subpath of your site, e.g. /blog/
 url: "https://jetrotal.github.io" # the base hostname & protocol for your site
 data-theme: dark
 
-Instruções: <style>instrucoes:{ content:"
-fim_das_Instruções: "}</style>
+Instruções: > 
+<style>instrucoes:{ content:"
+
+fim_das_Instruções: > 
+"}</style>
