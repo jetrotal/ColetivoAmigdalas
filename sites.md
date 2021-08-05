@@ -1,4 +1,11 @@
-[](Comment text goes here)
+<script>"
+
+Instruções:
+
+Categoria [ Título do Evento ]( Website ) Data
+
+
+"</script>
 
 
 Oficina [ Corpo e Voz - Oficina Gratuíta com Priscila Ioli ]() Em Breve <br>
