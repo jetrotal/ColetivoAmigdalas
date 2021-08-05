@@ -27,7 +27,7 @@ background-color:transparent !important;
 background:#1a1a1a;
 color:#333;
 font-family:Helvetica, sans-serif;
-font-size:14px;
+font-size:10px;
 height:100%;
 left:0;
 margin:0;
@@ -44,7 +44,7 @@ z-index:10;
 }
 
 a::before, a::after {
-content: "    ";
+content: "  ★  ";
 font-weight:900;
 opacity: .3;
 }
@@ -58,7 +58,7 @@ font-weight: 700;
 border:1px dotted #333;
 color:#fff;
 display:block;
-font-size:90%!important;
+font-size:14px;
 height:100%;
 margin: -1px 0;
 min-height:35px;
