@@ -1,5 +1,6 @@
 # Site settings
-title: Coletivo Amígdalas
+title: null
+name: Coletivo Amígdalas
 description: >
   Agenda de Curso, Apresentações, Notícias e Eventos do Coletivo Amígdalas.
 baseurl: "/coletivoamigdalas" # the subpath of your site, e.g. /blog/
