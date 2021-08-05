@@ -19,7 +19,6 @@ right:0;
 }
 
 .logo {
-margin:-15px 0 -28px 0;
 background-color:transparent !important;
 }
 
@@ -47,6 +46,10 @@ a::before, a::after {
 content: "  ★  ";
 color: #c1282d;
 font-size: 7px;
+}
+
+.logo::before, .logo::after {
+content: "    ";
 }
 
 .no-after::after, .no-after::before{
@@ -83,7 +86,8 @@ color:#666 !important;
 </style>
 
 <div class="mainDiv" markdown="1">
-<a class="logoContainer"><img class="logo" src="./logo.svg" height="125"></a>
+<a class="logoContainer"><img class="logo" src="./logo.svg" height="75"></a>
+<br>
 {% include_relative sites.md %}
 <div class="footer">
 <x onclick="window.location.href = 'https://www.instagram.com/coletivo_amigdalas/'" class="fa fa-instagram"></x>
