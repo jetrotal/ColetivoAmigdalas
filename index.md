@@ -49,7 +49,6 @@ font-size: 7px;
 }
 
 .header {
-top:-14px;
 }
 .header::before, .header::after {
 content: "    ";
