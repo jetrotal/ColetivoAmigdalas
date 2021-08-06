@@ -79,6 +79,9 @@ width:100%;
 a {
     margin: -8px 0;
     top: 14px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 
 body {
