@@ -7,20 +7,18 @@
  ⠀
 ------------------------------------------------------
 
-Os `Links` são escritos assim:
+Os `Links` são escritos assim:<br> 
 ```markdown
 [ Título do Evento ]( Website ) DIA 
 ```
-<br> Para deixar o `Link Riscado` usa-se:
-
-```jekyll
-~~[ Título do Evento ]( Website )~~ DIA
+<br> Para deixar o `Link Riscado` usa-se:<br> 
+```markdown
+~~[ Título do Evento ]( Website )~~ DIA 
 ```
-<br>
-Você pode `copiar` os exemplos acima e `colar` na lista de links <br>⠀
+<br>Você pode `copiar` os exemplos acima e `colar` na lista de links <br>⠀
 
 ------------------------------------------------------ 
 <br>
-O resultado aparece em + ou - 1 minuto no site:<br>
+O resultado aparece em +/- 30 segundos no site:<br>
 https://jetrotal.github.io/coletivoamigdalas/
 
