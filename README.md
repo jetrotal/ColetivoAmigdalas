@@ -1,11 +1,9 @@
 
  ⚠ INSTRUÇÕES ⚠
------------------------------------------------------
-<br><br>
-[ CLIQUE AQUI PARA EDITAR A LISTA DE LINKS ]( https://github.com/jetrotal/coletivoamigdalas/edit/main/sites.md )
- <br><br><br>
- ⠀
-------------------------------------------------------
+----------------------------------------------------- 
+
+> [ CLIQUE AQUI PARA EDITAR A LISTA DE LINKS ]( https://github.com/jetrotal/coletivoamigdalas/edit/main/sites.md )
+______
 
 Os `Links` são escritos assim:<br> 
 ```markdown
@@ -16,12 +14,12 @@ Os `Links` são escritos assim:<br>
 ~~[ Título do Evento ]( Website )~~ DIA 
 ```
 
-<br>Após terminar de escrever os links, clique no botão `Commit Changes`, no final da página. <br>
+<br>Após terminar de editar os links, `Vá até o no final da página` e clique no botão `Commit Changes`.  <br>
 
 ![image](https://user-images.githubusercontent.com/45118493/128440145-3950217d-006f-462a-b446-f7f515886612.png)
 
 O resultado aparece em +/- 30 segundos no site:<br>
-[``` https://jetrotal.github.io/coletivoamigdalas/ ?```](https://jetrotal.github.io/coletivoamigdalas/)
+[``` https://jetrotal.github.io/coletivoamigdalas/ ```](https://jetrotal.github.io/coletivoamigdalas/)
 
 ------------------------------------------------------ 
 <br>
