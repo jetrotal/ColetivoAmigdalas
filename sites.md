@@ -10,7 +10,7 @@
 
 
 
-site.instruções
+<Style>
 
 🔴🟠🟡 INSTRUÇÕES 🟡🟠🔴
 
@@ -28,6 +28,5 @@ PARA DEIXAR O LINK RISCADO, USA-SE ~~ Entre a categoria e o DIA
 
 Você pode copiar e colar os exemplos acima no topo
 
-site.fim_das_instruções
-
+</style>
 
