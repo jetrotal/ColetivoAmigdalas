@@ -17,12 +17,12 @@
 ------------------------------------------------------
 
 OS LINKS SÃO ESCRITOS ASSIM: 
-                            Categoria [ Título do Evento ]( Website ) DIA
+                            [ Título do Evento ]( Website ) DIA
 
 -------------------------------------------------------
 
 PARA DEIXAR O LINK RISCADO, USA-SE ~~ Entre a "categoria" e o "DIA": 
-                             Categoria ~~[ Título do Evento ]( Website )~~ DIA
+                             ~~[ Título do Evento ]( Website )~~ DIA
 
 ------------------------------------------------------
 
