@@ -2,6 +2,8 @@
  INSTRUÇÕES
 -----------------------------------------------------
 
+[ CLIQUE AQUI PARA EDITAR A LISTA DE LINKS ]( https://github.com/jetrotal/coletivoamigdalas/edit/main/sites.md )
+
 ------------------------------------------------------
 
 OS LINKS SÃO ESCRITOS ASSIM: 
