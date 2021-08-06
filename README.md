@@ -17,7 +17,7 @@ Os `Links` são escritos assim:
 ~~[ Título do Evento ]( Website )~~ DIA
 ```
 <br>
-Você pode copiar e colar os exemplos acima e usar na lista de links <br>⠀
+Você pode `copiar` os exemplos acima e `colar` na lista de links <br>⠀
 
 ------------------------------------------------------ 
 <br>
