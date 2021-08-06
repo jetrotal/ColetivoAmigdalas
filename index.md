@@ -68,7 +68,7 @@ display:block;
 font-size:12px;
 height:100%;
 min-height:35px;
-padding:11px 2px 20p;
+padding:11px 2px 20px;
 position:relative;
 text-align:center;
 text-decoration:none!important;
