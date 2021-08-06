@@ -47,6 +47,8 @@ a::before, a::after {
 content: "  ★  ";
 color: #c1282d;
 font-size: 7px;
+position: relative;
+bottom: 2px;
 }
 
 .header {
