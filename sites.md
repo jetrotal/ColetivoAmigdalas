@@ -5,28 +5,3 @@
 ~~[ Transmissão Verbo Mulher ](https://www.facebook.com/CentroCulturalMonteAzul)~~ DIA 25/07/2021
 ~~[ Transmissão Verbo Mulher + Debate ](https://www.instagram.com/epcultural151/)~~ DIAS 23/07/2021 E 24/07/2021
 ~~[ Transmissão Verbo Mulher + Debate ](https://www.instagram.com/epcultural151/)~~ DIAS 23/07/2021 E 24/07/2021
-
-
-
-
-
-<Style>
-
-🔴🟠🟡 INSTRUÇÕES 🟡🟠🔴
-
-------------------------------------------------------
-
-OS LINKS SÃO ESCRITOS ASSIM: 
-                            [ Título do Evento ]( Website ) DIA
-
--------------------------------------------------------
-
-PARA DEIXAR O LINK RISCADO, USA-SE ~~ Entre a "categoria" e o "DIA": 
-                             ~~[ Título do Evento ]( Website )~~ DIA
-
-------------------------------------------------------
-
-Você pode copiar e colar os exemplos acima no topo
-
-</style>
-
