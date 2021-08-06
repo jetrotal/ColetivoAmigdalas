@@ -68,7 +68,7 @@ display:block;
 font-size:12px;
 height:100%;
 min-height:35px;
-padding:11px 2px 20px;
+padding:17px 2px 23px
 position:relative;
 text-align:center;
 text-decoration:none!important;
@@ -76,7 +76,7 @@ width:100%;
 }
 a {
     margin: -8px 0;
-    top: 14px;
+    top: 21px;
 }
 
 body {
