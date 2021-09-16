@@ -13,8 +13,8 @@ Você pode `copiar` o exemplo acima para `colar` na lista de links<br>
 
 ______
 
-<br> Os `Links Novos` são escritos abaixo da linha `<!--👇Links Novos 👇-->`<br> 
-<br> Os ~~`Links Riscados`~~ são escritos abaixo da linha `<!--👇Links Antigos 👇-->`<br> 
+ Os `Links Novos` são escritos abaixo da linha `<!--👇Links Novos 👇-->`<br> <br>
+ Os ~~`Links Riscados`~~ são escritos abaixo da linha `<!--👇Links Antigos 👇-->`<br> 
 
 <br>Após terminar de editar os links, <br> `Vá até o no final da página` e clique no botão `Commit Changes`.  <br>
 
