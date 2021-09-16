@@ -14,7 +14,7 @@ Você pode `copiar` o exemplo acima para `colar` na lista de links<br>
 ______
 
  Os `Links Novos` são escritos abaixo da linha `<!--👇Links Novos 👇-->`<br> <br>
- Os ~~`Links Riscados`~~ são escritos abaixo da linha `<!--👇Links Antigos 👇-->`<br> <br>
+ Os ~~`Links Riscados`~~ são escritos abaixo da linha `<!--👇Links Antigos 👇-->`<br>
 
 ______
 
