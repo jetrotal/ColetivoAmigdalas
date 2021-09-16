@@ -11,6 +11,8 @@ Os `Links` são escritos assim:<br>
 ```
 Você pode `copiar` o exemplo acima para `colar` na lista de links<br> 
 
+______
+
 <br> Os `Links Novos` são escritos abaixo da linha `<!--👇Links Novos 👇-->`<br> 
 <br> Os ~~`Links Riscados`~~ são escritos abaixo da linha `<!--👇Links Antigos 👇-->`<br> 
 
@@ -20,7 +22,7 @@ Você pode `copiar` o exemplo acima para `colar` na lista de links<br>
 
 ------------------------------------------------------ 
 
-O resultado aparece em +/- 30 segundos no site.<br><br>
+O resultado demora +/- 30 segundos para aparecer no site.<br><br>
 ![image](https://user-images.githubusercontent.com/45118493/128441497-a572f611-ec1b-4523-a8b6-0223fe9d929f.png)<br>
 
  
