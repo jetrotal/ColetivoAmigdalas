@@ -1,7 +1,7 @@
 
 [ Verbo Mulher - Nova Temporada de Apresentações ]() Em Breve
 [ Matéria: Verbo Mulher na SP Escola de Teatro ](https://www.spescoladeteatro.org.br/noticia/tag/verbo-mulher) DIA 21/7/2021
-~~
+~~⠀
 [ Corpo e Voz - Oficina Gratuíta com Priscila Ioli ]() Em Breve
 [ Oficinas Gratuítas ](https://docs.google.com/forms/d/e/1FAIpQLScaMnpROJQd0P0z3mJjFo-z4Fkxlu4tkugnkWlZfCewgqvT0Q/viewform) DIAS 08/07/2021 À 11/08/2021
 [ Transmissão Verbo Mulher ](https://www.facebook.com/CentroCulturalMonteAzul) DIA 25/07/2021
