@@ -7,7 +7,7 @@ ______
 
 Os `Links` são escritos assim:<br> 
 ```markdown
-[ Título do Evento ]( Website ) DIA 
+[ Título do Evento ]( Website ) DIA 01/03/2023
 ```
 Você pode `copiar` o exemplo acima para `colar` na lista de links<br> 
 
