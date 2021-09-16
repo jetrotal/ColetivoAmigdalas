@@ -9,10 +9,7 @@ Os `Links` são escritos assim:<br>
 ```markdown
 [ Título do Evento ]( Website ) DIA 
 ```
-<br> Para deixar o ~~`Link Riscado`~~ escreve-se:<br> 
-```markdown
-~~[ Título do Evento ]( Website )~~ DIA 
-```
+<br> Os ~~`Links Riscados`~~ são escritos abaixo da linha `<!--👇Eventos Antigos 👇-->`<br> 
 
 <br>Após terminar de editar os links, <br> `Vá até o no final da página` e clique no botão `Commit Changes`.  <br>
 
