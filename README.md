@@ -9,6 +9,8 @@ Os `Links` são escritos assim:<br>
 ```markdown
 [ Título do Evento ]( Website ) DIA 
 ```
+Você pode `copiar` o exemplo acima para `colar` na lista de links<br> 
+
 <br> Os `Links Novos` são escritos abaixo da linha `<!--👇Links Novos 👇-->`<br> 
 <br> Os ~~`Links Riscados`~~ são escritos abaixo da linha `<!--👇Links Antigos 👇-->`<br> 
 
@@ -20,9 +22,6 @@ Os `Links` são escritos assim:<br>
 
 O resultado aparece em +/- 30 segundos no site.<br><br>
 ![image](https://user-images.githubusercontent.com/45118493/128441497-a572f611-ec1b-4523-a8b6-0223fe9d929f.png)<br>
-
-
-Você pode `copiar` os exemplos acima e `colar` na lista de links<br> 
 
  
  [``` https://jetrotal.github.io/coletivoamigdalas/  ```](https://jetrotal.github.io/coletivoamigdalas/)
