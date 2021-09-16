@@ -14,9 +14,11 @@ Você pode `copiar` o exemplo acima para `colar` na lista de links<br>
 ______
 
  Os `Links Novos` são escritos abaixo da linha `<!--👇Links Novos 👇-->`<br> <br>
- Os ~~`Links Riscados`~~ são escritos abaixo da linha `<!--👇Links Antigos 👇-->`<br> 
+ Os ~~`Links Riscados`~~ são escritos abaixo da linha `<!--👇Links Antigos 👇-->`<br> <br>
 
-<br>Após terminar de editar os links, <br> `Vá até o no final da página` e clique no botão `Commit Changes`.  <br>
+______
+
+ Após terminar de editar os links, <br> `Vá até o no final da página` e clique no botão `Commit Changes`.  <br>
 
 ![image](https://user-images.githubusercontent.com/45118493/128440145-3950217d-006f-462a-b446-f7f515886612.png)
 
