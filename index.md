@@ -43,6 +43,11 @@ color:#c1282d;
 z-index:10;
 }
 
+.markdown-body p {
+    margin-top: 0;
+    margin-bottom: 0px;
+}
+
 a::before, a::after {
 content: "  ★  ";
 color: #c1282d;
