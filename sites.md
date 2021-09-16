@@ -1,5 +1,5 @@
 <!--👇Novos Eventos 👇-->
-[ Verbo Mulher - Nova Temporada de Apresentações ]() Em Breve
+[ Verbo Mulher - Nova Temporada no Sympla ]() Em Breve
 [ Matéria: Verbo Mulher na SP Escola de Teatro ](https://www.spescoladeteatro.org.br/noticia/tag/verbo-mulher) DIA 21/7/2021
 <del>
 <!--👇Eventos Antigos 👇-->
